@@ -1,4 +1,5 @@
-Jacob Frese showcase of skills.
+This site was created to showcase the skills and acheivements of Jacob Frese.
+It is a way to display completed projects in an organized fashion. 
 
 
 Credits:
